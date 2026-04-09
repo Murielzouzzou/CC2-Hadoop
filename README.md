@@ -2,7 +2,7 @@
 
 ### 🎬 Analyse des Tags MovieLens avec Hadoop
 
-6
+
 📌 Présentation
 
 Ce projet consiste à analyser le fichier tags.csv du dataset MovieLens (25M) à l’aide de Hadoop et du modèle MapReduce.
