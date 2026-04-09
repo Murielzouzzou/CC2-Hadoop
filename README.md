@@ -1,6 +1,7 @@
 # CC2-Hadoop
 
 ### 🎬 Analyse des Tags MovieLens avec Hadoop
+
 6
 📌 Présentation
 
@@ -9,6 +10,7 @@ Ce projet consiste à analyser le fichier tags.csv du dataset MovieLens (25M) à
 L’objectif est de comprendre comment les utilisateurs décrivent les films à travers des tags.
 
 ### ⚙️ Technologies utilisées
+
 Python 🐍
 Hadoop (HDFS + MapReduce)
 MRJob
@@ -40,6 +42,7 @@ output_tags_user_movie.txt
 ➡️ Certains films sont beaucoup plus annotés que d'autres.
 
 ### 🧠 Ce que j’ai appris
+
 Utiliser Hadoop pour traiter des données massives
 Comprendre le fonctionnement de HDFS
 Implémenter des jobs MapReduce en Python
